@@ -15,7 +15,7 @@
     "firebase": "^5.8.1",
     "material-ui": "^0.20.2",
     "material-ui-pickers": "^2.1.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.6.3",
     "react-addons": "^0.9.1-deprecated",
     "react-dom": "^16.6.3",
